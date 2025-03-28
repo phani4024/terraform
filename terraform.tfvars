@@ -1,0 +1,5 @@
+iname="terraform-project"
+ami_id="ami-02f624c08a83ca16f"
+itype="t2.micro"
+kname="admin_key"
+sg_id="sg-0b85d6634cd17d684"
